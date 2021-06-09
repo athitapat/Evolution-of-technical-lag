@@ -8,7 +8,7 @@ there are csv datasets
 + pypi_projects-1.6.0.csv
 + pypi_versions-1.6.0.csv
   
-These datasets are specific to the Pypi platform. from [orignal dataset](https://zenodo.org/record/3626071#.YLoKPIXivIU)
+These datasets are specific to the Pypi platform from [orignal dataset](https://zenodo.org/record/3626071#.YLoKPIXivIU). pypi_dependencies-1.6.0_date.csv have been added Published Timeatamp information from pypi_versions-1.6.0.csv and remove the dependencies that missing Published Timestamp information
   
   
 
